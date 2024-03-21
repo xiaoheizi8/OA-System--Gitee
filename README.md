@@ -1,4 +1,4 @@
-# OOPSysten
+# OOPSystem
 
 #### 介绍
 一个SpringBoot+Vue2的管理系统
@@ -6,7 +6,7 @@
 #### 软件架构
 软件架构说明
 大一的第一个全栈项目(2023年暑假)简历的第一个项目
-jdk8+SpringBoot2+MySQL+MybatisPlus
+jdk8+SpringBoot2+MySQL+MybatisPlus+Jwt+Vue2 +axios+Echarts
 #### 安装教程
 
 1.  xxxx
